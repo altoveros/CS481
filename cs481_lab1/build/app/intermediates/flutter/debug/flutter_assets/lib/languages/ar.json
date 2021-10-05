@@ -1,0 +1,22 @@
+{
+  "main_text": "اختر مربع حوار لعرضه أدناه",
+
+  "alert_dialog": "حوار التنبيه",
+  "alert_box": "هذا هو نموذج مربع نص التنبيه",
+  "alert_title": "مربع نص التنبيه",
+  "alert_close": "قريب",
+
+
+  "cupertino_dialog":"حوار كوبرتينو",
+  "cupertino_box": "هذه هي عينة مربع تنبيه كوبرتينو",
+  "cupertino_title": "عينة كوبرتينو",
+  "cupertino_close": "قريب",
+
+
+  "simple_dialog": "حوار بسيط",
+  "simple_main": "اختيار بسيط",
+  "simple_box": "حدد التحديد البسيط لعرضه",
+  "simple_1box": "اختيار بسيط 1",
+  "simple_2box": "اختيار بسيط 2",
+  "simple_3box": "اختيار بسيط 3"
+}

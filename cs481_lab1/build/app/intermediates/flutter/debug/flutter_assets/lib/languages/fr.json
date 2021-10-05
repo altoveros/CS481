@@ -1,0 +1,22 @@
+{
+  "main_text": "Choisissez une boîte de dialogue à afficher ci-dessous",
+
+  "alert_dialog": "Boîte de dialogue d'alerte",
+  "alert_box": "Ceci est l'exemple de zone de texte d'alerte",
+  "alert_title": "Zone de texte d'alerte",
+  "alert_close": "proche",
+
+
+  "cupertino_dialog":"Boîte de dialogue Cupertino",
+  "cupertino_box": "Voici l'exemple de la boîte d'alerte Cupertino",
+  "cupertino_title": "Échantillon de Cupertino",
+  "cupertino_close": "proche",
+
+
+  "simple_dialog": "Dialogue simple",
+  "simple_main": "Sélection simple",
+  "simple_box": "Sélectionnez la sélection simple à afficher",
+  "simple_1box": "Sélection simple 1",
+  "simple_2box": "Sélection simple 2",
+  "simple_3box": "Sélection simple 3"
+}

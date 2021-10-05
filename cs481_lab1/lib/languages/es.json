@@ -1,0 +1,24 @@
+{
+  "main_text": "Has presionado el botón tantas veces",
+
+
+
+  "alert_dialog": "Diálogo de alerta",
+  "alert_box": "Esta es la muestra del cuadro de texto de alerta",
+  "alert_title": "Cuadro de texto de alerta",
+  "alert_close": "Cerca",
+
+
+  "cupertino_dialog":"Diálogo de Cupertino",
+  "cupertino_box": "Esta es la muestra del cuadro de alerta de cupertino",
+  "cupertino_title": "Muestra de Cupertino",
+  "cupertino_close": "Cerca",
+
+
+  "simple_dialog": "Diálogo simple",
+  "simple_main": "Selección simple",
+  "simple_box": "Seleccione la selección simple para ver",
+  "simple_1box": "Selección simple 1",
+  "simple_2box": "Selección simple 2",
+  "simple_3box": "Selección simple 3"
+}

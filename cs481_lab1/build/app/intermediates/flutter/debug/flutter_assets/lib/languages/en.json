@@ -1,0 +1,22 @@
+{
+  "main_text": "Choose a dialog box to view below",
+
+  "alert_dialog": "Alert Dialog",
+  "alert_box": "This is the alert text box sample",
+  "alert_title": "Alert Text Box",
+  "alert_close": "Close",
+
+
+  "cupertino_dialog":"Cupertino Dialog",
+  "cupertino_box": "This is the cupertino alert box sample",
+  "cupertino_title": "Cupertino Sample",
+  "cupertino_close": "Close",
+
+
+  "simple_dialog": "Simple Dialog",
+  "simple_main": "Simple Selection",
+  "simple_box": "Select the simple selection to view",
+  "simple_1box": "Simple selection 1",
+  "simple_2box": "Simple selection 2",
+  "simple_3box": "Simple selection 3"
+}
